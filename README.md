@@ -215,11 +215,11 @@ https://www.linkedin.com/in/nikhil-dass-2390bb383
 
 🐙 **GitHub**
 
-https://github.com/YOUR_USERNAME
+https://github.com/itsmedass107
 
 📧 **Email**
 
-YOUR_EMAIL
+itsmedass107@gmail.com
 
 ---
 
