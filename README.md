@@ -1,108 +1,119 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Nikhil Dass
+# 👋 Hi, I'm T Nikhil Dass
 
-### 💻 B.Tech Information Technology Student | Full Stack Developer | Hardware & AI Enthusiast
+### 🚀 B.Tech Information Technology Student | Freelance Web Developer | AI Enthusiast | NVIDIA 6G Developer Program Member
 
-I enjoy building technology that solves real-world problems by combining software, AI, and embedded systems. Whether it's a web application, an IoT dashboard, or a hackathon prototype, I love transforming ideas into working products.
+I'm passionate about building real-world technology that solves practical problems. From developing websites for clients and businesses to creating AI-powered applications, IoT solutions, and hackathon projects, I enjoy transforming ideas into impactful products.
 
 ---
 
-## 🚀 Current Focus
+## 💫 About Me
 
-* 🌐 Full Stack Web Development
-* 🤖 Artificial Intelligence
-* ⚡ Embedded Systems & IoT
-* 📊 Data Visualization
-* 🏆 Hackathons & Innovation Challenges
-* ☁️ Learning Cloud Deployment
+- 🎓 First-Year B.Tech Information Technology Student
+- 💼 Freelance Web Developer
+- 🤖 Passionate about AI & Emerging Technologies
+- 🏆 In-House Warrior Award – Hackxelerate'26
+- 🚀 Active Hackathon Participant
+- 🌱 Currently learning AI, UI/UX, React.js & Advanced Full-Stack Development
+- 💡 Interested in solving real-world problems through technology
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+- Python
+- JavaScript
+- HTML5
+- CSS3
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-### Frameworks & Tools
+### Backend & Database
+- MongoDB
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### AI & Hardware
+- AI / Machine Learning
+- Arduino
 
----
-
-## 🔥 Featured Projects
-
-### 🌞 Smart Solar Tracking Dashboard
-
-AI-powered dual-axis solar monitoring system with a real-time web dashboard.
-
-### 🛡 SAFE HER
-
-Women's safety platform featuring SOS alerts, live location sharing, danger heatmaps, and emergency contacts.
-
-### 🗳 Smart Campus Voting System
-
-Blockchain-inspired secure voting platform designed for educational institutions.
-
-### 🖼 PosterHaus
-
-A premium poster store website built with modern UI and responsive design.
+### Design & Tools
+- Canva
+- SketchUp
+- Git & GitHub
+- VS Code
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
+### 🛒 PosterHaus
+A modern e-commerce platform for premium posters.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🚗 BMW Showcase Website
+Luxury automobile showcase with premium UI.
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+### 🏫 Smart Campus Platform
+Campus management system with smart features.
 
-</p>
+### 🗳 Election Polling System
+Secure campus voting application.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🛡 Cyber Security Command Center
+Security dashboard for monitoring cyber threats.
 
----
+### 👩 Women's Safety Platform
+Emergency assistance platform with safety features.
 
-## 🏅 Achievements
+### 🤖 AI for Living Projects
+AI-based solutions for real-world applications.
 
-* 🏆 National Hackathon Participant
-* 🚀 Built multiple full-stack and IoT projects
-* 💡 Passionate about solving real-world problems through technology
-* 📚 Continuously learning and exploring new technologies
-
----
-
-## 🌍 Let's Connect
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+### 🎮 Interactive Games
+Fun web-based games using HTML, CSS & JavaScript.
 
 ---
 
-> **"Code. Build. Break. Learn. Repeat."**
+## 🏆 Achievements
 
-⭐ Thanks for visiting my profile!
+🥇 In-House Warrior Award — Hackxelerate'26
 
+🚀 NVIDIA 6G Developer Program Member
+
+💻 Successfully delivered multiple freelance websites for businesses, friends, and family.
+
+---
+
+## 💻 Currently Working On
+
+- Advanced Full Stack Development
+- AI Applications
+- UI/UX Design
+- IoT & Smart Systems
+- Open Source Contributions
+
+---
+
+## 🎯 2026 Goals
+
+✅ Build impactful AI projects
+
+✅ Contribute to Open Source
+
+✅ Win National Hackathons
+
+✅ Complete High-Impact Freelance Projects
+
+✅ Secure a Product-Based Internship
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+www.linkedin.com/in/nikhil-dass-2390bb383
+
+---
+
+> *"Building technology that creates real-world impact."* 🚀
