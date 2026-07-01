@@ -1,20 +1,10 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey, I'm Nikhil Dass
+# Hey 👋 I'm Nikhil Dass
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+IoT+Enthusiast;Hackathon+Builder;Freelance+Web+Developer;Always+Building+Something+New" />
+### Full Stack Developer • Freelance Web Developer • AI Enthusiast • Hackathon Builder
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Freelance-Web%20Developer-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hackathon-Builder-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learner-red?style=for-the-badge"/>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Full+Stack+Developer;Freelance+Web+Developer;AI+Enthusiast;Hackathon+Participant;Always+Learning+Something+New"/>
 
 </div>
 
@@ -22,336 +12,221 @@
 
 # 💫 About Me
 
-```python
-class NikhilDass:
+I'm a **B.Tech Information Technology student** passionate about building software that solves real-world problems.
 
-    def __init__(self):
+My journey started with creating websites for friends and family, which grew into freelance projects for businesses and eventually expanded into AI applications, hackathon projects, cybersecurity dashboards, IoT systems, and modern web experiences.
 
-        self.role = "B.Tech Information Technology Student"
-
-        self.location = "India"
-
-        self.interests = [
-            "Full Stack Development",
-            "Artificial Intelligence",
-            "Cyber Security",
-            "IoT",
-            "Embedded Systems",
-            "UI/UX"
-        ]
-
-        self.currently_learning = [
-            "React",
-            "FastAPI",
-            "Machine Learning",
-            "Cloud"
-        ]
-
-        self.fun_fact = "I love turning ideas into real-world products."
-
-me = NikhilDass()
-```
+I enjoy learning new technologies, experimenting with creative ideas, and transforming concepts into practical digital solutions.
 
 ---
 
-# 🚀 Developer Status
+## 🚀 What I'm Working On
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🟢 STATUS        : Online
-
-💻 BUILDING      : AI Applications
-
-🌱 LEARNING      : React + FastAPI
-
-🏆 GOAL          : National Hackathon Winner
-
-☕ COFFEE LEVEL  : ██████████ 100%
-
-⚡ MOTTO         : Build • Learn • Improve • Repeat
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence
+- 🛡 Cyber Security
+- ⚡ Arduino & IoT Projects
+- 🎨 UI/UX Design
+- ☁️ Cloud Technologies
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-
 </p>
 
-## Frontend
+### Frameworks & Libraries
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
-## Backend
+### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
-
-</p>
-
-## Database
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=mongodb"/>
-
 </p>
 
-## Tools
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma"/>
 </p>
 
----
+### Other Skills
 
-# 📊 Skill Progress
-
-```text
-Python               ████████████████████ 95%
-
-HTML/CSS             ██████████████████   90%
-
-JavaScript           ████████████████     85%
-
-React                ████████████         70%
-
-AI                   █████████████        75%
-
-Cyber Security       ██████████           65%
-
-Arduino              ███████████          70%
-```
+- AI Applications
+- Prompt Engineering
+- Canva
+- SketchUp
+- UI/UX Design
+- Team Leadership
+- Project Management
+- Freelancing
+- Problem Solving
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡 SAFE HER
+## 🛒 PosterHaus
 
-AI-powered Women's Safety Platform
-
-✔ SOS Alert
-
-✔ Live Location
-
-✔ Emergency Contacts
-
-✔ Safe Route
-
-✔ Community Reporting
-
-✔ Interactive Maps
+A premium e-commerce website designed for selling posters with a clean shopping experience, responsive design, and modern user interface.
 
 ---
 
-## ☀ Smart Solar Dashboard
+## 🚗 BMW Showcase Website
 
-Dual Axis Solar Tracking System
-
-Arduino + Python + React + FastAPI
-
-Real-time Monitoring Dashboard
+A luxury automobile showcase inspired by BMW featuring premium layouts, interactive sections, and smooth animations.
 
 ---
 
-## 🏫 Smart Campus
+## 🏫 Smart Campus Platform
 
-Digital Campus Management Platform
-
-Authentication
-
-Attendance
-
-Smart Services
+A smart campus management platform designed to simplify campus services through an intuitive and responsive web application.
 
 ---
 
 ## 🗳 Election Polling System
 
-Secure Digital Voting Platform
-
-Authentication
-
-Vote Verification
-
-Admin Dashboard
-
----
-
-## 🛒 PosterHaus
-
-Modern E-Commerce Website
-
-Responsive UI
-
-Product Showcase
-
-Premium Design
+A secure digital voting platform built for educational institutions with authentication, vote management, and administrative controls.
 
 ---
 
 ## 🛡 Cyber Security Command Center
 
-Threat Monitoring Dashboard
-
-Security Analytics
-
-Real-time Alerts
+A cybersecurity dashboard built to visualize security data, monitor threats, and provide an interactive security-focused interface.
 
 ---
 
-# 📈 GitHub Analytics
+## 👩 SAFE HER
+
+A women's safety platform featuring:
+
+- Emergency SOS
+- Emergency Contacts
+- Live Location Sharing
+- Safe Route Assistance
+- Community Reporting
+
+---
+
+## 🤖 AI for Living Projects
+
+A collection of AI-powered applications designed to solve practical everyday problems through intelligent automation and modern technologies.
+
+---
+
+## 🎵 Personal Spotify Dashboard
+
+A Spotify-inspired personal music dashboard featuring playlists, favorite artists, recently played tracks, and an elegant user interface.
+
+---
+
+## 🏎 Car Cluster Racing Game
+
+An interactive browser-based racing game built using HTML, CSS, and JavaScript featuring smooth gameplay, score tracking, collision detection, and increasing difficulty.
+
+---
+
+## 💼 Freelance Websites
+
+Successfully designed and developed multiple websites for:
+
+- Local Businesses
+- Gift Shops
+- Friends
+- Family
+- Personal Clients
+
+---
+
+## 🏠 Dream House Design
+
+Designed a complete modern house using SketchUp, including exterior architecture, interior planning, room layouts, and 3D visualization.
+
+---
+
+# 🏆 Achievements
+
+🏆 In-House Warrior Award — Hackxelerate'26
+
+🚀 NVIDIA 6G Developer Program Member
+
+💼 Completed multiple freelance web development projects
+
+🤖 Built AI-powered applications
+
+🏫 Developed real-world software projects
+
+🏠 Designed architectural models using SketchUp
+
+---
+
+# 📚 Currently Learning
+
+- React.js
+- Advanced Full Stack Development
+- Artificial Intelligence
+- UI/UX Design
+- Cloud Computing
+- Open Source Development
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📅 Journey
-
-```text
-2026
-
-🏆 Hackxelerate In-House Warrior
-
-🚀 Started Freelancing
-
-💻 Built PosterHaus
-
-🛡 SAFE HER
-
-☀ Solar Dashboard
-
-🏫 Smart Campus
-
-🤖 AI Projects
-
-🌱 Learning Full Stack
-```
+- 🚀 Build impactful AI applications
+- 💼 Expand my freelance portfolio
+- 🏆 Win national-level hackathons
+- 🌍 Contribute to open source projects
+- 📈 Strengthen full-stack development skills
+- 💻 Secure a software engineering internship
 
 ---
 
-# 🎯 2026 Mission
+# 🌐 Connect With Me
 
-```text
-█████████████████████████░░░░░░░░░
+💼 **LinkedIn**
 
-✔ Build AI Projects
+https://www.linkedin.com/in/nikhil-dass-2390bb383
 
-✔ Build Client Websites
+🐙 **GitHub**
 
-✔ Participate in Hackathons
+https://github.com/YOUR_USERNAME
 
-⬜ Open Source Contributions
+📧 **Email**
 
-⬜ Product Based Internship
-
-⬜ 100+ GitHub Contributions
-
-Progress : 70%
-```
-
----
-
-# 💻 Terminal
-
-```bash
-$ whoami
-
-Nikhil Dass
-
-Full Stack Developer
-
-Freelancer
-
-Hackathon Builder
-
-AI Enthusiast
-
-Cyber Security Learner
-
-IoT Explorer
-
-$ current_status
-
-Building something awesome...
-```
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/nikhil-dass-2390bb383">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Great products are not built by waiting for opportunities—they are built by creating them."**
+YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### 💭 "Building technology that creates real-world impact."
 
-Let's build something amazing together 🚀
+⭐ Thanks for visiting my profile!
 
 </div>
